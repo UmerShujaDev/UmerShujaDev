@@ -18,8 +18,8 @@ I have been involved in various projects that required developing dynamic and re
 - Microservices
 
 ## 📫 How to reach me
-- **LinkedIn:** [Umer Shuja](https://www.linkedin.com/in/umershuja/)
-- **Email:** umershuja@example.com
+- **LinkedIn:** [Umer Shuja](https://www.linkedin.com/in/umershujadev/)
+- **Email:** umershuja12@gmail.com
 
 ## 🏆 Achievements
 - Kaggle Gold Medalist
@@ -27,8 +27,8 @@ I have been involved in various projects that required developing dynamic and re
 - Joined Roshan Kal Internship Program with PepsiCo Pakistan
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umershuja/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:umershuja@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umershujadev/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:umershuja12@gmail.com)
 
 Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to collaborating on exciting projects and exchanging ideas.
 
