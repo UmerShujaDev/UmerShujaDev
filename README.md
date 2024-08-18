@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Umer Shuja
 
 ## 👨‍💻 About Me
-I'm a Senior Software Engineer with a strong focus on modern web technologies. My expertise spans across JavaScript (JS), TypeScript (TS), React, Next.js, and some Node.js. With 6+ years of experience in developing scalable and efficient web applications, I am passionate about creating seamless user experiences and writing clean, maintainable code.
+I'm a Senior Software Engineer with a strong focus on modern web technologies. My expertise spans across JavaScript (JS), TypeScript (TS), React, Next.js, and some Node.js. With 8+ years of experience in developing scalable and efficient web applications, I am passionate about creating seamless user experiences and writing clean, maintainable code.
 
 ## 🚀 Technologies & Tools
 - **Languages:** JavaScript (JS), TypeScript (TS)
