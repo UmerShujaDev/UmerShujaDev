@@ -6,7 +6,7 @@ I'm a Senior Software Engineer with a strong focus on modern web technologies. M
 ## 🚀 Technologies & Tools
 - **Languages:** JavaScript (JS), TypeScript (TS)
 - **Frontend:** React, Next.js
-- **Backend:** Node.js
+- **Backend:** Node.js, Express js
 - **Others:** HTML5, CSS3, REST APIs, Git, Webpack, Babel, Redux
 
 ## 💼 Experience
@@ -20,11 +20,7 @@ I have been involved in various projects that required developing dynamic and re
 ## 📫 How to reach me
 - **LinkedIn:** [Umer Shuja](https://www.linkedin.com/in/umershujadev/)
 - **Email:** umershuja12@gmail.com
-
-## 🏆 Achievements
-- Kaggle Gold Medalist
-- Created trending datasets on Kaggle
-- Joined Roshan Kal Internship Program with PepsiCo Pakistan
+- **Website:** [My Portfolio Website](https://my-portfolio-three-psi-75.vercel.app)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umershujadev/)
